@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 👋 Hi, I'm Makhmud Barakhoev<br><br>🎓 Computer Engineering student  <br>🤖 Learning AI, Python & software development from scratch  <br>📈 Building projects, solving problems, and growing every day  <br><br>Also into design-skilled in Photoshop. Stay tuned!
+👋 Hi, I'm Makhmud Barakhoev<br><br>🎓 Computer Engineering student  <br>🤖 Learning AI, Python & software development from scratch  <br>📈 Building projects, solving problems, and growing every day  <br><br>Also into design-skilled in Photoshop. Stay tuned!
 
 
 ## 🌐 Socials:
