@@ -1,8 +1,8 @@
-<h2 align="left">👋 Hi, I'm Makhmud Barakhoev</h2>
+<img align="right" height="150" src="https://avatars.githubusercontent.com/u/148074445?s=400&u=d784f8bf4c3a3dd4059bb60210439b8e2620be3a&v=4"  />
 
 ###
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/148074445?s=400&u=d784f8bf4c3a3dd4059bb60210439b8e2620be3a&v=4"  />
+<h2 align="left">👋 Hi, I'm Makhmud Barakhoev</h2>
 
 ###
 
