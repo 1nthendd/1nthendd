@@ -2,15 +2,15 @@
 
 ###
 
-<h3 align="left">🎓 Computer Engineering student<br>🤖 Learning AI, Python & Data Science, ML from scratch<br>📈 Building projects, solving problems, and growing every day</h3>
-
-###
-
 <img align="right" height="150" src="https://avatars.githubusercontent.com/u/148074445?s=400&u=d784f8bf4c3a3dd4059bb60210439b8e2620be3a&v=4"  />
 
 ###
 
-<div align="justify">
+<h3 align="left">🎓 Computer Engineering student<br>🤖 Learning AI, Python & Data Science, ML<br>📈 Building projects, solving problems, and growing every day</h3>
+
+###
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
