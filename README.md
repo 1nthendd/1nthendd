@@ -47,13 +47,13 @@
 
 ###
 
-<div align="center">
+<div align="justify">
   <img src="https://streak-stats.demolab.com?user=1nthendd&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
 ###
 
-<div align="center">
+<div align="justify">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=1nthendd&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
