@@ -41,15 +41,12 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/1nthendd/1nthendd/output/snake.svg" alt="Snake animation" />
 
 ###
 
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=1nthendd&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5" height="180" width="500" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=1nthendd&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5" height="180" width="1000" alt="streak graph"  />
 </div>
 
 ###
