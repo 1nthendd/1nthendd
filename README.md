@@ -1,12 +1,12 @@
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/148074445?s=400&u=d784f8bf4c3a3dd4059bb60210439b8e2620be3a&v=4"  />
-
-###
-
 <h2 align="left">👋 Hi, I'm Makhmud Barakhoev</h2>
 
 ###
 
 <h3 align="left">🎓 Computer Engineering student<br>🤖 Learning AI, Python & Data Science, ML<br>📈 Building projects, solving problems, and growing every day</h3>
+
+###
+
+<img align="right" height="150" src="https://avatars.githubusercontent.com/u/148074445?s=400&u=d784f8bf4c3a3dd4059bb60210439b8e2620be3a&v=4"  />
 
 ###
 
@@ -53,7 +53,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1nthendd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=1nthendd&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=1nthendd&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
 </div>
