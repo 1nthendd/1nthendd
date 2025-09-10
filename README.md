@@ -8,6 +8,8 @@
 
 <h3 align="left">🎓 Computer Engineering student<br>🤖 Learning AI, Python & Data Science, ML<br>📈 Building projects, solving problems, and growing every day</h3>
 
+###
+
 <p align="left">
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="40" alt="python logo" /></a>&nbsp;
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" width="40" alt="jupyter logo" /></a>&nbsp;
@@ -36,8 +38,6 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
-
-###
 
 <br clear="both">
 
