@@ -134,7 +134,7 @@ Repositories below will be added and updated as they reach a state worth sharing
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&hide_border=true&background=0D1117&stroke=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=1nthendd&hide_border=true&background=0D1117&stroke=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
 
 </div>
 
