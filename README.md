@@ -40,9 +40,11 @@ practicing → clean, reproducible experiment structure
 
 **Data**
 
-<img src="https://skillicons.dev/icons?i=sqlite,postgres&theme=dark" height="42"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="28"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=sqlite,postgres&theme=dark" height="42"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="42"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="42"/>
+</p>
 
 
 **ML / DL**
