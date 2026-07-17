@@ -129,11 +129,6 @@ Every project here exists to answer one question: *do I actually understand this
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=1nthendd&show_icons=true&count_private=true&hide_border=true&title_color=6C63FF&icon_color=6C63FF&text_color=8b949e&bg_color=0d1117"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1nthendd&layout=compact&hide_border=true&title_color=6C63FF&text_color=8b949e&bg_color=0d1117"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=1nthendd&hide_border=true&background=0D1117&stroke=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF"/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=1nthendd&theme=github-compact&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF"/>
 
 </div>
