@@ -1,50 +1,169 @@
-<h2 align="left">👋 Hi, I'm Makhmud Barakhoev</h2>
+<div align="center">
 
-###
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1200&color=6C63FF&center=true&vCenter=true&width=560&lines=Computer+Engineering+%E2%80%A2+AI+Engineering+Path;Building+practical+ML+%2F+LLM+systems;Learning+in+public%2C+one+project+at+a+time" alt="Typing SVG" />
 
-<img align="right" height="180" src="https://avatars.githubusercontent.com/u/148074445?s=400&u=d784f8bf4c3a3dd4059bb60210439b8e2620be3a&v=4"  />
-
-###
-
-<h3 align="left">🎓 Computer Engineering student<br>🤖 Learning AI, Python & Data Science, ML<br>📈 Building projects, solving problems, and growing every day</h3>
-
-###
-
-<p align="left">
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="40" alt="python logo" /></a>&nbsp;
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" width="40" alt="jupyter logo" /></a>&nbsp;
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" width="40" alt="sqlite logo" /></a>&nbsp;
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" width="40" alt="numpy logo" /></a>&nbsp;
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" width="40" alt="pytorch logo" /></a>&nbsp;
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" width="40" alt="pandas logo" /></a>
-</p>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/makhmud-barakhoev/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="king.barahoev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.youtube.com/@nikolatesla6335" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://t.me/nthendd" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  </a>
-  <a href="https://instagram.com/1nthendd" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
 </div>
 
-###
+<br/>
 
-<img src="https://raw.githubusercontent.com/1nthendd/1nthendd/output/snake.svg" alt="Snake animation" />
+## About
+
+I'm a Computer Engineering student working toward becoming an AI Engineer. I like building things that sit at the intersection of software engineering and machine learning — systems that are reproducible, well-tested, and actually run somewhere other than a notebook.
+
+Right now I'm most interested in:
+
+- Machine Learning & Deep Learning
+- Large Language Models
+- Computer Vision & NLP
+- Data Engineering & MLOps
+
+I care more about understanding *why* something works than just getting it to run. Clean code, reproducible experiments, and honest documentation matter to me as much as the model itself.
+
+<br/>
+
+## Current Focus
+
+```text
+2026 → Strengthening ML fundamentals, applied deep learning, and production-grade Python
+Goal  → Ship end-to-end AI systems — from data pipeline to served model
+```
+
+<br/>
+
+## Core Skills
+
+**Programming**
+<br/>
+![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+**Data**
+<br/>
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Polars](https://img.shields.io/badge/Polars-CD792C?style=flat-square&logo=polars&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
+
+**Machine Learning & Deep Learning**
+<br/>
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
+**Development**
+<br/>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+<br/>
+
+## Currently Learning
+
+**Machine Learning** — XGBoost · LightGBM · CatBoost
+<br/>
+**Deep Learning** — TensorFlow · Keras
+<br/>
+**LLMs** — Transformers · Hugging Face
+<br/>
+**Applied Systems** — OpenCV · FastAPI · Docker · PostgreSQL
+
+<br/>
+
+## Future Interests
+
+**Large Language Models** — LangChain · OpenAI API · vLLM · Ollama
+<br/>
+**NLP** — spaCy · NLTK
+<br/>
+**Computer Vision** — YOLO
+<br/>
+**Data Engineering** — DuckDB · MongoDB
+<br/>
+**MLOps** — MLflow · DVC · Weights & Biases
+<br/>
+**Cloud** — AWS · Google Cloud · Azure
+
+<br/>
+
+## Development Environment
+
+| | |
+|---|---|
+| **OS** | Linux |
+| **Editor** | VS Code |
+| **Shell** | Bash |
+| **Notebook** | Jupyter |
+| **Version Control** | Git |
+
+<br/>
+
+## Learning Philosophy
+
+I try to learn by building rather than by collecting tutorials. Each project is a way to test whether I actually understand a concept — not just whether I can copy a pattern.
+
+I'd rather ship something small and understand every line of it than ship something large I can't explain.
+
+<br/>
+
+## Featured Projects
+
+Repositories below will be added and updated as they reach a state worth sharing.
+
+| Category | Status |
+|---|---|
+| AI Projects | In progress |
+| Machine Learning Projects | In progress |
+| Deep Learning Projects | Planned |
+| LLM Applications | Planned |
+| Computer Vision | Planned |
+| NLP | Planned |
+| Research Notes | Ongoing |
+| Open Source Contributions | Exploring |
+
+<br/>
+
+## GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=1nthendd&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5" height="350" width="590" alt="streak graph"  />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide_border=true&title_color=6C63FF&icon_color=6C63FF&text_color=8b949e&bg_color=0d1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&hide_border=true&title_color=6C63FF&text_color=8b949e&bg_color=0d1117" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&hide_border=true&background=0D1117&stroke=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
+
 </div>
 
-###
+<br/>
+
+## Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=github-compact&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF" />
+
+</div>
+
+<br/>
+
+## Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Twitter](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/your-handle)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<sub>Building in public. Updated as the work progresses, not as a performance.</sub>
+
+</div>
