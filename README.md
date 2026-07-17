@@ -129,7 +129,7 @@ Every project here exists to answer one question: *do I actually understand this
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=1nthendd&theme=github-compact&hide_border=true&bg_color=5fa8d3&color=6C63FF&line=6C63FF&point=FFFFFF"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=1nthendd&theme=github-compact&hide_border=true&bg_color=0D1117&color=5fa8d3&line=5fa8d3&point=FFFFFF"/>
 
 </div>
 
