@@ -41,10 +41,10 @@ practicing → clean, reproducible experiment structure
 **Data**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" height="42"/>
-  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="42"/>
+  <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" height="42"/>
+  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="42"/> 
 </p>
 
 
