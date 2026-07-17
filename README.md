@@ -129,8 +129,8 @@ Repositories below will be added and updated as they reach a state worth sharing
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide_border=true&title_color=6C63FF&icon_color=6C63FF&text_color=8b949e&bg_color=0d1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&hide_border=true&title_color=6C63FF&text_color=8b949e&bg_color=0d1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=1nthendd&show_icons=true&count_private=true&hide_border=true&title_color=6C63FF&icon_color=6C63FF&text_color=8b949e&bg_color=0d1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1nthendd&layout=compact&hide_border=true&title_color=6C63FF&text_color=8b949e&bg_color=0d1117" />
 
 <br/>
 
@@ -144,7 +144,7 @@ Repositories below will be added and updated as they reach a state worth sharing
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=github-compact&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=1nthendd&theme=github-compact&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF" />
 
 </div>
 
