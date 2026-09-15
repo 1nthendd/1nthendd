@@ -4,7 +4,7 @@
 
 <br/>
 
-<i>Machine Learning · Deep Learning · LLMs · Computer Vision · MLOps</i>
+<i>Machine Learning · Deep Learning · LLMs · MLOps</i>
 
 </div>
 
