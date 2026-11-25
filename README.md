@@ -117,7 +117,7 @@ practicing → clean, reproducible experiment structure
 
 <br/>
 
-### `06` Stats
+### `05` Stats
 
 <div align="center">
 
@@ -127,17 +127,17 @@ practicing → clean, reproducible experiment structure
 
 <br/>
 
-### `07` Contact
+### `06` Contact
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/makhmud-barakhoev)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:barahoevmah@gmail.com)
-
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/makhmudbarakhoev)
 </div>
 
 <br/>
 
 <div align="center">
-<sub>Not finished. Not pretending to be.</sub>
+<sub>Kinda tired.</sub>
 </div>
