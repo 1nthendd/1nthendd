@@ -4,7 +4,7 @@
 
 <br/>
 
-<i>Machine Learning · Deep Learning · LLMs · MLOps</i>
+<i>Machine Learning · Deep Learning · LLMs </i>
 
 </div>
 
@@ -16,7 +16,7 @@
 
 ### `01` About
 
-I'm a Computer Engineering student building my way into AI Engineering — not by collecting certificates, but by building things end-to-end: data pipeline, model, evaluation, and something that actually runs.
+I'm a Computer Engineering student building my way into ML Engineering — not by collecting certificates, but by building things end-to-end: data pipeline, model, evaluation, and something that actually runs.
 
 I'm drawn to the parts most people skip — reading the paper before the tutorial, debugging the training loop instead of copying it, understanding *why* a model fails before trying to fix it.
 
@@ -76,15 +76,7 @@ practicing → clean, reproducible experiment structure
 
 <br/>
 
-### `04` Philosophy
-
-I'd rather ship something small I fully understand than something large I can't explain.
-
-Every project here exists to answer one question: *do I actually understand this, or did I just make it run?*
-
-<br/>
-
-### `05` Building
+### `04` Building
 
 <br/>
 
